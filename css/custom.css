@@ -1,0 +1,58 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.bod-cond-bold{font-family: 'bauerbodni_btroman' !important; font-weight:normal !important; text-transform:uppercase !important;}
+
+.prox-thin{font-family: 'proxima_nova_altthin' !important;}
+.prox-light{font-family: 'proxima_nova_altlight' !important;}
+.prox-regular{font-family: 'proxima_nova_alt_rgregular' !important;}
+.prox-semibold{font-family: 'proxima_nova_altsemibold' !important;}
+.prox-bold{font-family: 'proxima_nova_alt_cn_rgbold' !important;}
+
+
+.proxcon-thin{font-family: 'proxima_nova_alt_condensedTh' !important;}
+.proxcon-light{font-family: 'proxima_nova_alt_condensedLt' !important;}
+.proxcon-regular{font-family: 'proxima_nova_alt_condensedRg' !important;}
+.proxcon-semibold{font-family: 'proxima_nova_alt_condensedSBd' !important;}
+
+.page-section{ padding:75px 0px !important;}
+#about_heading{
+	margin: -25px;
+}
+
+
+.heading1{ font-size:50px !important; letter-spacing:1px; word-spacing:2px;}
+.heading2{ font-size:45px !important; letter-spacing:1px; word-spacing:2px;}
+.heading3{ font-size:40px !important; letter-spacing:1px; word-spacing:1px; color: #EBEBEB !important; text-shadow: 1px 1px 1px black !important;}
+.heading4{ font-size:35px !important; letter-spacing:1px; word-spacing:1px;}
+
+.sub-heading1{ font-size:30px !important; letter-spacing:1px; word-spacing:1px;}
+.sub-heading2{ font-size:25px !important; letter-spacing:1px; word-spacing:1px;}
+.sub-heading3{ font-size:20px !important; letter-spacing:1px; word-spacing:1px;}
+
+.para1{ font-size:18px !important; letter-spacing:0.7px; word-spacing:1px;}
+.para2{ font-size:15px !important; letter-spacing:0.5px; word-spacing:1px;}
+.para3{ font-size:12px !important; letter-spacing:0.5px; word-spacing:1px;}
+
+
+
+.contact-section{ background: url(../images/bg1.jpg) top center no-repeat fixed; min-height: 600px;}
+
+.ssr-color{color: #0056a6 !important;}
+.ssr-bgcolor{background-color: #0056a6 !important;}
+.sharnam-bg{background-color: #FEC02C !important}
+
+.bg-light-grey {
+  background-color: #EBEBEB !important;
+}
+
+.fbox-icon img{-webkit-transition: all 0.3s; -moz-transition: all 0.3s;transform: scale3d(1, 1, 1); }
+.fbox-icon:hover img { transform: scale3d(1.1, 1.1, 1); }
+
+.para2{
+	text-align: left;
+}
