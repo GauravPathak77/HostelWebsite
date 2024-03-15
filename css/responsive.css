@@ -1613,6 +1613,17 @@
 		top: 7vw !important;
 	}
 
+	.arrow_caros{
+		height: 7vw !important;
+		width: 10vw !important;
+		
+	}
+	.arrow_icon{
+		font-size: 0.73em !important;
+		position: relative;
+		bottom: 2vw;
+	}
+
 	.shop:not(.product-1) .product-title h3 { font-size: 19px; }
 
 	.fslider:not(.flex-thumb-grid) .flex-control-nav.flex-control-thumbs { height: 45px; }
