@@ -1592,7 +1592,7 @@
 		height: 12vw !important; 
 		width: 12vw !important;
 		position: relative;
-		top: 180vw !important;
+		top: 60vw !important;
 	}
 
 	.head_font{
@@ -1609,16 +1609,14 @@
 		position: relative;
 		top: 7vw !important;
 	}
-
+/* 
 	.arrow_caros{
-		height: 10vw !important;
+		height: 9vw !important;
 		width: 10vw !important;
 		
-	}
+	} */
 	.arrow_icon{
 		font-size: 0.73em !important;
-		position: relative;
-		bottom: 2vw;
 	}
 
 	.shop:not(.product-1) .product-title h3 { font-size: 19px; }
