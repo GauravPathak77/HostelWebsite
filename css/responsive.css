@@ -1588,14 +1588,11 @@
 		width: 100%;
 	}
 
-	.num{
-		font-size: 3vw;
-		position: relative;
-		right: 3.5vw;
-	}
 	#call{
 		height: 12vw !important; 
 		width: 12vw !important;
+		position: relative;
+		top: 60vw !important;
 	}
 
 	.head_font{
@@ -1614,7 +1611,7 @@
 	}
 
 	.arrow_caros{
-		height: 8vw !important;
+		height: 10vw !important;
 		width: 10vw !important;
 		
 	}
